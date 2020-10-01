@@ -1,6 +1,6 @@
 # Bootstap Website template 
 
-![Alt text](/main.png?raw=true "ScreenShot")
+![Alt text](main.png?raw=true "ScreenShot")
 
 
 ## About the project
