@@ -1,4 +1,4 @@
-# Bootstap Website template 
+# Bootstap Website template first such project of this type
 
 ![Alt text](main.png?raw=true "ScreenShot")
 
